@@ -1,16 +1,4 @@
 ## COVID-19_UI
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210510-103356](https://user-images.githubusercontent.com/83119289/119219439-3dbca000-bb03-11eb-8f28-f19cc590d846.jpeg)
+![Screenshot_20210509-183335](https://user-images.githubusercontent.com/83119289/119219445-49a86200-bb03-11eb-8240-a61606e6b469.jpg)
